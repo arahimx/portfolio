@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "Portfolio of Arahimx Abdur Rahim, a software engineer specializing in web development. Browse through my projects and see my skills in action.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Arahimx - Software Engineer",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Arahimx - Software Engineer",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/images/logo.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://arahimx.com/arahimx.jpeg",
+      "type": "image/jpeg",
+      "sizes": "460x460"
+    }
+  ],
+  "id": "arahimx"
+}
